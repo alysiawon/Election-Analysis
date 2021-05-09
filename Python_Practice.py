@@ -210,15 +210,15 @@
 # print(per_votes)
 # print(f"I received {per_votes}% of the total votes.")
 
-# Using F-Strings With Dictionary
-    # Print
-counties_dict = {"Arapahoe": 369237, "Denver":413229, "Jefferson": 390222}
-for county, voters in counties_dict.items():
-    print(county + " county has " + str(voters) + " registered voters.")
+# # Using F-Strings With Dictionary
+#     # Print
+# counties_dict = {"Arapahoe": 369237, "Denver":413229, "Jefferson": 390222}
+# for county, voters in counties_dict.items():
+#     print(county + " county has " + str(voters) + " registered voters.")
 
-    # F-String
-for county, voters in counties_dict.items():
-    print(f"{county} county has {voters} registered voters.")
+#     # F-String
+# for county, voters in counties_dict.items():
+#     print(f"{county} county has {voters} registered voters.")
 
 # # Multiline F-Strings
 # candidate_votes = int(input("How many votes did the candidate get in the election? "))
@@ -241,3 +241,12 @@ for county, voters in counties_dict.items():
 # now = dt.datetime.now()
 # # Print the present time.
 # print("The time right now is ", now)
+
+# Dependencies
+
+    # Import the datetime class from the datetime module.
+import datetime
+    # Use the now() attribute on the datetime class to get the present time.
+now = datetime.datetime.now()
+    # Print the present time.
+print("The time right now is ", now)
