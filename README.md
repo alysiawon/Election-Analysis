@@ -13,8 +13,8 @@ The purpose of this project is to automate the election audit process with Pytho
 8. The county with the highest turnout 
 
 ## Election-Audit Results
-1. The total votes casted in this congressional election was 369,711 votes.
-2. The breakdown of the number of votes and the percentage of total votes of each county in the precinct are:
+- The total votes casted in this congressional election was 369,711 votes.
+- The breakdown of the number of votes and the percentage of total votes of each county in the precinct are:
     1. Jefferson: 38,855 (10.5%)
     2. Denver: 306,055 (82.8%)
     3. Arapahoe 24,801 (6.7%)
