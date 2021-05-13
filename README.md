@@ -33,8 +33,8 @@ The Elections Commission can use this script for future election.
 Modifications
 1. Automate the Python Script to Run Daily
 
-A suggestion could be to add a Python script to allow the votes to be calculated daily. During an election, there are multiple forms of receiving ballots, for example, mail-in ballots, punch cards or direct recording electronics, with various counting methods from hand counting, maching counting or computer counting. Each method has a different process time and procedure. With adding an automated script to update daily, we can give live results to the general public. 
+    A suggestion could be to add a Python script to allow the votes to be calculated daily. During an election, there are multiple forms of receiving ballots, for example, mail-in ballots, punch cards or direct recording electronics, with various counting methods from hand counting, maching counting or computer counting. Each method has a different process time and procedure. With adding an automated script to update daily, we can give live results to the general public. 
 
 2. Print a Graph
 
-Another suggestion could be printing a bar chart in Python to visualize the election results. Election results normally involve a large volumes of votes and can be hard for people to conceptualize how much someone is winning by or losing by. By creating a bar chart, we can directly compare the winners and losers by the number of votes or percentage of votes. We can also use this to compare the counties and other metrics. 
+    Another suggestion could be printing a bar chart in Python to visualize the election results. Election results normally involve a large volumes of votes and can be hard for people to conceptualize how much someone is winning by or losing by. By creating a bar chart, we can directly compare the winners and losers by the number of votes or percentage of votes. We can also use this to compare the counties and other metrics. 
