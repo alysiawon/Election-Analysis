@@ -43,7 +43,7 @@ The Elections Commission can use this script for future election. If the dataset
 
 **Modifications**
 
-In order to fully optimize this script, the two modifications I would recommend are: 
+In order to fully optimize this script, the two modifications I recommend are: 
 
 1. Automate the Python Script to Run Daily
 
