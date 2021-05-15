@@ -14,9 +14,9 @@ The purpose of this project is to automate the election audit process using Pyth
 
 ## Election-Audit Results
 
-The data preparation utilizes Python to perform calculations by creating lists and dictionaries, decision statements, and using repetition statements to iterate through the lists and dictionaries. This helped to automate the process and print the statements into a Text Editor file. Insight are generated on the <a href="PyPoll_Challenge.py">PyPoll code</a>. 
+The data preparation utilizes Python to perform calculations by creating lists and dictionaries, decision statements, and using repetition statements to iterate through the lists and dictionaries. This helped to automate the process and print the statements into a Text Editor file. Insight are generated on the <a href="PyPoll_Challenge.py">PyPoll Script</a>. 
 
-The final results are printed in the <a href="Analysis/election_analysis.txt">PyPoll text editor file</a>. 
+The final results are printed in the <a href="Analysis/election_analysis.txt">PyPoll Text Editor File</a>. 
 
 <img src="Resources/Election_Audit_Results.png" width="400">
 
@@ -38,9 +38,11 @@ The final results are printed in the <a href="Analysis/election_analysis.txt">Py
 ## Election-Audit Summary
 
 **Business Proposal**
+
 The Elections Commission can use this script for future election. If the dataset is set up similarly and the Elections Commission would like to produce the same results (candidate and county results), then this code is already set up to do so. 
 
 **Modifications**
+
 In order to fully optimize this script, the two modifications I would recommend are: 
 
 1. Automate the Python Script to Run Daily
